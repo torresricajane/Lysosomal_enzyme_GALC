@@ -42,11 +42,11 @@ Galactocerebrosidase helps break down certain lipids inside lysosomes, particula
 
 **2. What is the total length of your protein, and which amino acids are most common?**
 
-The selected GALC protein contains **685 amino acids**. Based on the sequence analysis, leucine (L) is the most common amino acid, with 68 occurrences (9.93%). It is followed by glycine (G), with 62 occurrences (9.05%). Alanine (A) and threonine (T) each occur 49 times (7.15%), while serine (S) occurs 47 times (6.86%). These results show the distribution of amino acids in the selected protein sequence.
+Based on my results, the GALC protein contains 685 amino acids. From my amino acid composition graph, I found that leucine (L) is the most common amino acid, with 68 occurrences (9.93%). It is followed by glycine (G), with 62 occurrences (9.05%). Alanine (A) and threonine (T) each have 49 occurrences (7.15%), while serine (S) has 47 occurrences (6.86%).
 
 **3. How many potential N-glycosylation motifs did you find? Where are they located?**
 
-The analysis identified **six potential N-glycosylation motifs** in the GALC protein sequence. Their starting positions and sequences are shown below.
+I have found six potential N-glycosylation motifs in the GALC protein sequence. Their starting positions and sequences are listed below.
 
 | Amino Acid Position | Motif |
 |---:|:---|
@@ -57,24 +57,12 @@ The analysis identified **six potential N-glycosylation motifs** in the GALC pro
 | 559 | NLT |
 | 602 | NGS |
 
-Each motif follows the N-X-S/T pattern, where X can be any amino acid except proline (P). These positions are predicted from the protein sequence and do not confirm that glycosylation occurs at these sites.
+These motifs follow the N-X-S/T pattern, where X is any amino acid except proline (P). They are potential sites predicted from the sequence, so their presence does not confirm that glycosylation actually occurs.
 
 **4. Why can glycosylation matter for lysosomal proteins? Does finding a motif prove the protein is glycosylated?**
 
-Glycosylation can help proteins fold correctly, remain stable, and reach the proper location inside the cell. Some lysosomal enzymes also receive carbohydrate modifications involved in their transport to lysosomes. However, finding a potential N-glycosylation motif does not prove that a sugar is attached to that site. It also does not confirm the presence of a mannose-6-phosphate (M6P) tag. Additional experimental evidence is needed to confirm these modifications.
+Glycosylation  matter for lysosomal proteins because it can help proteins fold correctly, remain stable, and reach the proper location inside the cell. Some lysosomal enzymes also receive carbohydrate modifications involved in their transport to lysosomes. However, finding a potential N-glycosylation motif does not prove that a sugar is attached to that site. It also does not confirm the presence of a mannose-6-phosphate (M6P) tag. Additional experimental evidence is needed to confirm these modifications.
 
 **5. What could happen in the cell if your enzyme did not work properly?**
 
-If GALC does not function properly, lipids such as psychosine and galactosylceramide may accumulate because they are not broken down normally. The accumulation of these substances can damage cells that form and maintain myelin, which protects nerve fibers. This damage can interfere with normal nerve signaling. A deficiency of GALC causes **Krabbe disease**, a genetic disorder that affects the nervous system.
-
-
-
-
-
-
-
-
-
-
-
-
+If GALC does not  work or function properly, lipids such as psychosine and galactosylceramide may accumulate because they are not broken down normally. The accumulation of these substances can damage cells that form and maintain myelin, which protects nerve fibers. This damage can interfere with normal nerve signaling. A deficiency of GALC causes **Krabbe disease**, a genetic disorder that affects the nervous system.
