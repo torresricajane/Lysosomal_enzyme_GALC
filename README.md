@@ -1,17 +1,11 @@
 # Lysosomal_enzyme_GALC
 
 **Name:** Rica Jane Torres
-
 **Gene Symbol:** GALC
-
 **Enzyme Name:** Galactocerebrosidase
-
 **Organism:** *Homo sapiens*
-
 **NCBI Protein Accession / Protein Record:** NP_000144.2 — galactocerebrosidase isoform a precursor [Homo sapiens]
-
 **RefSeq Transcript:** NM_000153.4
-
 **NCBI Protein link:** https://www.ncbi.nlm.nih.gov/protein/NP_000144.2?report=fasta
 
 # Overview
@@ -28,20 +22,20 @@ The GALC protein sequence analyzed contains 685 amino acids and six potential N-
 
 The five most abundant amino acids were:
 
- Leucine (L): 68 residues (9.93%)
- Glycine (G): 62 residues (9.05%)
- Alanine (A): 49 residues (7.15%)
- Threonine (T): 49 residues (7.15%)
- Serine (S): 47 residues (6.86%)
+- Leucine (L): 68 residues (9.93%)
+- Glycine (G): 62 residues (9.05%)
+- Alanine (A): 49 residues (7.15%)
+- Threonine (T): 49 residues (7.15%)
+- Serine (S): 47 residues (6.86%)
 
 The six potential N-linked glycosylation motifs identified were:
 
- Position 143: NIT
- Position 379: NLT
- Position 403: NVS
- Position 556: NWT
- Position 559: NLT
- Position 602: NGS
+- Position 143: NIT
+- Position 379: NLT
+- Position 403: NVS
+- Position 556: NWT
+- Position 559: NLT
+- Position 602: NGS
 
 **Figure 1. Amino Acid Composition**
 
