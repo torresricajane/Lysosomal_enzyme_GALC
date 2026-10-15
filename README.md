@@ -22,6 +22,27 @@ In this activity, the human GALC protein sequence was obtained from NCBI and ana
 
 # Analysis Results
 
+**Amino Acid Composition and Potential N-Glycosylation Motifs**
+
+The GALC protein sequence analyzed contains 685 amino acids and six potential N-linked glycosylation motifs.
+
+The five most abundant amino acids were:
+
+Leucine (L): 68 residues (9.93%)
+Glycine (G): 62 residues (9.05%)
+Alanine (A): 49 residues (7.15%)
+Threonine (T): 49 residues (7.15%)
+Serine (S): 47 residues (6.86%)
+
+The six potential N-linked glycosylation motifs identified were:
+
+Position 143: NIT
+Position 379: NLT
+Position 403: NVS
+Position 556: NWT
+Position 559: NLT
+Position 602: NGS
+
 **Figure 1. Amino Acid Composition**
 
 <img width="2400" height="1350" alt="GALC_amino_acid_composition" src="https://github.com/user-attachments/assets/6ede68e4-35a7-4a5c-887c-3994a005d2c4" />
