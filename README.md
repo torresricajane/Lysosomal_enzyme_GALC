@@ -1,11 +1,17 @@
 # Lysosomal_enzyme_GALC
 
 **Name:** Rica Jane Torres
+
 **Gene Symbol:** GALC
+
 **Enzyme Name:** Galactocerebrosidase
+
 **Organism:** *Homo sapiens*
+
 **NCBI Protein Accession / Protein Record:** NP_000144.2 — galactocerebrosidase isoform a precursor [Homo sapiens]
+
 **RefSeq Transcript:** NM_000153.4
+
 **NCBI Protein link:** https://www.ncbi.nlm.nih.gov/protein/NP_000144.2?report=fasta
 
 # Overview
